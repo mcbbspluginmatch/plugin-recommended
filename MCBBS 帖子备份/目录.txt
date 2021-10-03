@@ -3,6 +3,6 @@
 
 [table=98%]
 [tr][td][color=Gray][url=https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=1265727&pid=23540507]GriefDefender[/url][/color][/td][td][color=Gray]付费、开源[/color][/td][td][color=Gray]1.12 ~ 1.17.1[/color][/td][td][color=Gray]Spigot、Paper、Sponge[/color][/td][/tr]
-[tr][td=4,0][b]领地插件[/b]，全UI操作、2D/3D圈地模式、领地方块，情境定义，行为包装等等[/td][/tr]
+[tr][td=4,0][b]领地插件[/b]，全UI操作、2D/3D圈地模式、领地方块、情境定义、行为包装等[/td][/tr]
 [/table]
 [/font][/size][/indent][/size]
