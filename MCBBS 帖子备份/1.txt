@@ -1,0 +1,40 @@
+
+[align=center][img]https://z3.ax1x.com/2021/08/22/hpVyZD.png[/img]
+
+[size=6]服务端插件版[/size]
+[size=4][color=#808080]优质插件推荐[/color][/size][/align]
+[hr]
+[indent][indent][size=2][font=Tahoma]Minecraft 优质插件推荐 (以下简称 "插件推荐") 是社区发起并由插件版收录的公益项目，指向国内用户推送一些经过实际使用并严格挑选的优质插件，以促进 MCBBS 插件板氛围的良性化发展。
+
+插件推荐收录范围十分广泛且部分插件站内可能不会有搬运贴或详尽的介绍与使用教程，因此阅读者需具备一定的英语水平和相关知识。
+
+插件推荐的目的及宗旨是推送精品，让创作者和使用者在信息上形成联系，为创作者的付出提供流量，为用户的体验提供便利，以此构建更为合理的插件生态与开发社区，帮助创作者有更好的空间发挥他们的创造力，丰富 Minecraft 社区不断延续的共享精神。
+
+[b]基本原则[/b]
+开放性
+[color=Gray]任何人都有可能参与到插件推荐的建设[/color]
+公益性
+[color=Gray]插件推荐的目的是建设更好的插件生态，所有文本以 [b][url=https://creativecommons.org/licenses/by-sa/4.0/deed.zh]Attribution-ShareAlike CC BY-SA 4.0[/url][/b] 许可进行分发，参与者应知悉许可证的内容[/color]
+公平性
+[color=Gray]所有参与者应保证自己的文本客观公正，自心而发，不应带有偏颇的色彩[/color]
+透明性
+[color=Gray]所有参与者将被公示，与插件推荐相关的行为应当被公开[/color]
+共享性
+[color=Gray]本专栏应本着开放共享的精神进行编写，任何参与者不应夹带有关个人利益的文本[/color]
+广泛性
+[color=Gray]本专栏推荐的宗旨是推送精品，任何有关 Minecraft 的插件都应包含，不限平台[/color]
+
+[b]基本要求[/b]
+在插件推荐项目初期，所有资源由[b]插件推荐小组[/b][sup]注1[/sup]整理发布，所有推荐插件必须经过插件推荐小组的完全测试或实际应用，多数情况下不推荐[b]完全付费插件[/b][sup]注2[/sup]，除非该插件拥有不可替代的价值。以下要求仅为指导性意见，多数情况下由插件推荐小组成员主观评定。
+
+[color=Gray]被推荐的插件应当接近 MCBBS 插件版优秀或以上评级
+被推荐的插件应当在大多数[b]用户认可的平台[/b][sup]注3[/sup]发布
+被推荐的插件应当经过多次版本迭代，以避免在开发初期出现的任何不可预料的漏洞
+[b]被推荐的插件作者或贡献者不应为插件推荐小组成员[/b][sup]注4[/sup][/color][/font][/indent][/indent]
+[hr]
+[indent][indent][color=Gray][size=2][b]注释[/b]
+1：完全由普通用户组成且后续开放申请。
+2：该插件本体只能通过付费获取或是使用含有激活码、密码等相似方式的在线验证
+3：包括但不限于：[url=https://github.com]GitHub[/url]、[url=https://dev.bukkit.org]Bukkit[/url]、[url=https://spigotmc.org]SpigotMC[/url]、[url=https://ore.spongepowered.org]SpongePowered[/url]、[url=https://forums.velocitypowered.com]VelocityPowered[/url]，多数情况下由个人搭建的插件分发平台不被接受。
+4：为作者提供汉化或漏洞修复不在限制范围内
+[/size][/color][/indent][/indent]
