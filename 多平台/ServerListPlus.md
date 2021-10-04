@@ -6,7 +6,7 @@ Minecrell 为 Sponge 的早期开发者之一，其开发的 ServerListPlus 更�
 [color=Gray]ServerListPlus 目前已经不再开发新的功能，只会修复错误或兼容性问题，您可以前往[url=https://github.com/Minecrell/ServerListPlus/issues/338]这里[/url]寻找更多延续本插件的再开发项目[/color]
 
 [b]支持版本[/b]
-[img]https://img.shields.io/spiget/tested-versions/241?label=Bukkit[/img]
+[img]https://img.shields.io/spiget/tested-versions/241?label=Multi-Platform[/img]
 ServerListPlus 目前支持 Bukkit, Spigot, Paper, BungeeCord, Velocity, Waterfall, Canary, Sponge 等平台
 
 [b]社区评价[/b]
