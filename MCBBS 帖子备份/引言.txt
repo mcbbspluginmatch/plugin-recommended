@@ -1,4 +1,3 @@
-
 [align=center][img]https://z3.ax1x.com/2021/08/22/hpVyZD.png[/img]
 
 [size=6]服务端插件版[/size]
@@ -47,3 +46,5 @@
 [tr][td=4,0][b]领地插件[/b]，全UI操作、2D/3D圈地模式、领地方块、情境定义、行为包装等[/td][/tr]
 [/table]
 [/font][/size][/indent][hr]
+
+[align=center][color=Red][size=5]请勿在本帖回复，将扣除 20 金粒[/size][/color][/align]
