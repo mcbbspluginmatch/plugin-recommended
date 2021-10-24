@@ -30,11 +30,20 @@
 [color=Gray]被推荐的插件应当接近 MCBBS 插件版优秀或以上评级
 被推荐的插件应当在大多数[b]用户认可的平台[/b][sup]注3[/sup]发布
 被推荐的插件应当经过多次版本迭代，以避免在开发初期出现的任何不可预料的漏洞
-[b]被推荐的插件作者或贡献者不应为插件推荐小组成员[/b][sup]注4[/sup][/color][/font][/indent][/indent]
+[b]被推荐的插件作者或贡献者不应为插件推荐小组成员[/b][sup]注4[/sup][/color][/font][/size][/indent][/indent][size=2]
+
 [hr]
 [indent][indent][color=Gray][size=2][b]注释[/b]
 1：完全由普通用户组成且后续开放申请。
 2：该插件本体只能通过付费获取或是使用含有激活码、密码等相似方式的在线验证
 3：包括但不限于：[url=https://github.com]GitHub[/url]、[url=https://dev.bukkit.org]Bukkit[/url]、[url=https://spigotmc.org]SpigotMC[/url]、[url=https://ore.spongepowered.org]SpongePowered[/url]、[url=https://forums.velocitypowered.com]VelocityPowered[/url]，多数情况下由个人搭建的插件分发平台不被接受。
 4：为作者提供汉化或漏洞修复不在限制范围内
-[/size][/color][/indent][/indent]
+[/size][/color][/indent][/indent][/size]
+[hr][indent][size=2][font=Tahoma]
+面对浩如烟海的 Minecraft 插件社区，插件推荐旨为广大服主减少信息不对称所带来的困难，帮助有志者完善心目中的 Minecraft 体验。为了更方便的查找插件，我们会对插件进行简要的介绍，方便您通过 [b]Ctrl + F[/b] 搜索插件。
+
+[table=98%]
+[tr][td][color=Gray][url=https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=1265727&pid=23546408]GriefDefender[/url][/color][/td][td][color=Gray]付费、开源[/color][/td][td][color=Gray]1.12 ~ 1.17.1[/color][/td][td][color=Gray]Spigot、Paper、Sponge[/color][/td][/tr]
+[tr][td=4,0][b]领地插件[/b]，全UI操作、2D/3D圈地模式、领地方块、情境定义、行为包装等[/td][/tr]
+[/table]
+[/font][/size][/indent][hr]
